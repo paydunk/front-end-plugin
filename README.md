@@ -1,7 +1,8 @@
 # Paydunk Front End Plugin
 
-Usage:
+### Usage:
 
+```js
 <script type="text/javascript" src="jquery.paydunk.js"></script> 
 <script>
 $('#paydunkButton').paydunk({
@@ -12,3 +13,4 @@ $('#paydunkButton').paydunk({
     shipping     : 0
 });
 </script>
+```
